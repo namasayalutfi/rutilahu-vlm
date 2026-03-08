@@ -1,0 +1,826 @@
+[
+  {
+    "image": "a84c0032-mkn_img_0068.jpg",
+    "roof_condition": "minor_damage",
+    "wall_condition": "good",
+    "floor_condition": "wood",
+    "severity_score": null,
+    "severity_label": null
+  },
+  {
+    "image": "1b5b25f0-mkn_img_0069.jpg",
+    "roof_condition": "major_damage",
+    "wall_condition": "major_damage",
+    "floor_condition": "dirt",
+    "severity_score": 3,
+    "severity_label": "perlu_perbaikan_sedang"
+  },
+  {
+    "image": "ca017015-mkn_img_0070.jpg",
+    "roof_condition": "major_damage",
+    "wall_condition": "collapsed",
+    "floor_condition": "unknown",
+    "severity_score": 4,
+    "severity_label": "tidak_layak"
+  },
+  {
+    "image": "493bda3c-mkn_img_0071.jpg",
+    "roof_condition": "major_damage",
+    "wall_condition": "minor_damage",
+    "floor_condition": null,
+    "severity_score": null,
+    "severity_label": null
+  },
+  {
+    "image": "392ea4c9-mkn_img_0072.jpg",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "ceramic",
+    "severity_score": 4,
+    "severity_label": "tidak_layak"
+  },
+  {
+    "image": "a2c7178b-mkn_img_0002.png",
+    "roof_condition": "minor_damage",
+    "wall_condition": "good",
+    "floor_condition": "ceramic",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "f701c522-mkn_img_0003.png",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "ceramic",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "e31ffdd3-mkn_img_0004.png",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "ceramic",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "4cc849cf-mkn_img_0005.png",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "ceramic",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "79f4ae80-mkn_img_0009.png",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "ceramic",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "9a98c42c-mkn_img_0010.png",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "ceramic",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "c6f14856-mkn_img_0012.png",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "ceramic",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "c2c92da7-mkn_img_0013.png",
+    "roof_condition": "minor_damage",
+    "wall_condition": "minor_damage",
+    "floor_condition": "ceramic",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "9935e370-mkn_img_0014.jpg",
+    "roof_condition": "collapsed",
+    "wall_condition": "major_damage",
+    "floor_condition": "dirt",
+    "severity_score": 4,
+    "severity_label": "tidak_layak"
+  },
+  {
+    "image": "ab0856f1-mkn_img_0015.jpg",
+    "roof_condition": "major_damage",
+    "wall_condition": "collapsed",
+    "floor_condition": "dirt",
+    "severity_score": 4,
+    "severity_label": "tidak_layak"
+  },
+  {
+    "image": "4f3441ea-mkn_img_0018.jpg",
+    "roof_condition": "collapsed",
+    "wall_condition": "major_damage",
+    "floor_condition": "unknown",
+    "severity_score": 4,
+    "severity_label": "tidak_layak"
+  },
+  {
+    "image": "e7a25915-mkn_img_0019.jpg",
+    "roof_condition": "major_damage",
+    "wall_condition": "major_damage",
+    "floor_condition": "unknown",
+    "severity_score": null,
+    "severity_label": null
+  },
+  {
+    "image": "6279feca-mkn_img_0020.jpg",
+    "roof_condition": "minor_damage",
+    "wall_condition": "minor_damage",
+    "floor_condition": "dirt",
+    "severity_score": 2,
+    "severity_label": "perlu_perbaikan_ringan"
+  },
+  {
+    "image": "37cf4bcc-mkn_img_0022.jpg",
+    "roof_condition": "collapsed",
+    "wall_condition": "minor_damage",
+    "floor_condition": "unknown",
+    "severity_score": 4,
+    "severity_label": "tidak_layak"
+  },
+  {
+    "image": "4ad71bf3-mkn_img_0023.jpg",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "unknown",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "42340d09-mkn_img_0024.jpg",
+    "roof_condition": "major_damage",
+    "wall_condition": "major_damage",
+    "floor_condition": "dirt",
+    "severity_score": 3,
+    "severity_label": "perlu_perbaikan_sedang"
+  },
+  {
+    "image": "9005b849-mkn_img_0025.jpg",
+    "roof_condition": "minor_damage",
+    "wall_condition": "major_damage",
+    "floor_condition": "cement",
+    "severity_score": 3,
+    "severity_label": "perlu_perbaikan_sedang"
+  },
+  {
+    "image": "413449c6-mkn_img_0026.jpg",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "cement",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "484b3a19-mkn_img_0027.jpg",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "cement",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "f7f542d4-mkn_img_0028.jpg",
+    "roof_condition": "major_damage",
+    "wall_condition": "minor_damage",
+    "floor_condition": "dirt",
+    "severity_score": 3,
+    "severity_label": "perlu_perbaikan_sedang"
+  },
+  {
+    "image": "db53e6b7-mkn_img_0029.jpg",
+    "roof_condition": "collapsed",
+    "wall_condition": "major_damage",
+    "floor_condition": "dirt",
+    "severity_score": 4,
+    "severity_label": "tidak_layak"
+  },
+  {
+    "image": "900776a7-mkn_img_0030.jpg",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "unknown",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "2a0541fa-mkn_img_0031.jpg",
+    "roof_condition": "major_damage",
+    "wall_condition": "major_damage",
+    "floor_condition": "unknown",
+    "severity_score": 4,
+    "severity_label": "tidak_layak"
+  },
+  {
+    "image": "acc03033-mkn_img_0032.jpg",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "wood",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "07dbc07e-mkn_img_0033.jpg",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "unknown",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "19a88088-mkn_img_0034.jpg",
+    "roof_condition": "minor_damage",
+    "wall_condition": "good",
+    "floor_condition": "cement",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "8aefd5ca-mkn_img_0035.jpg",
+    "roof_condition": "major_damage",
+    "wall_condition": "major_damage",
+    "floor_condition": "dirt",
+    "severity_score": 4,
+    "severity_label": "tidak_layak"
+  },
+  {
+    "image": "33587eef-mkn_img_0036.jpg",
+    "roof_condition": "collapsed",
+    "wall_condition": "major_damage",
+    "floor_condition": "unknown",
+    "severity_score": 4,
+    "severity_label": "tidak_layak"
+  },
+  {
+    "image": "d7eb94af-mkn_img_0038.jpg",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "cement",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "2c7247e6-mkn_img_0039.jpg",
+    "roof_condition": "collapsed",
+    "wall_condition": "collapsed",
+    "floor_condition": "unknown",
+    "severity_score": 4,
+    "severity_label": "tidak_layak"
+  },
+  {
+    "image": "1ea57425-mkn_img_0040.jpg",
+    "roof_condition": "minor_damage",
+    "wall_condition": "major_damage",
+    "floor_condition": "wood",
+    "severity_score": 3,
+    "severity_label": "perlu_perbaikan_sedang"
+  },
+  {
+    "image": "fae42f1e-mkn_img_0041.jpg",
+    "roof_condition": "minor_damage",
+    "wall_condition": "major_damage",
+    "floor_condition": "wood",
+    "severity_score": 3,
+    "severity_label": "perlu_perbaikan_sedang"
+  },
+  {
+    "image": "5f27be93-mkn_img_0042.jpg",
+    "roof_condition": "good",
+    "wall_condition": "minor_damage",
+    "floor_condition": "unknown",
+    "severity_score": 2,
+    "severity_label": "perlu_perbaikan_ringan"
+  },
+  {
+    "image": "94589e99-mkn_img_0043.jpg",
+    "roof_condition": "minor_damage",
+    "wall_condition": "major_damage",
+    "floor_condition": "unknown",
+    "severity_score": 3,
+    "severity_label": "perlu_perbaikan_sedang"
+  },
+  {
+    "image": "cf8236e3-mkn_img_0044.jpg",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "unknown",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "87f678c6-mkn_img_0045.jpg",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "unknown",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "25a7188a-mkn_img_0046.jpg",
+    "roof_condition": "minor_damage",
+    "wall_condition": "major_damage",
+    "floor_condition": "cement",
+    "severity_score": 3,
+    "severity_label": "perlu_perbaikan_sedang"
+  },
+  {
+    "image": "2d54cc48-mkn_img_0047.jpg",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "cement",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "9107d100-mkn_img_0048.jpg",
+    "roof_condition": "minor_damage",
+    "wall_condition": "major_damage",
+    "floor_condition": "dirt",
+    "severity_score": 3,
+    "severity_label": "perlu_perbaikan_sedang"
+  },
+  {
+    "image": "dce74c7f-mkn_img_0049.jpg",
+    "roof_condition": "major_damage",
+    "wall_condition": "minor_damage",
+    "floor_condition": "cement",
+    "severity_score": 3,
+    "severity_label": "perlu_perbaikan_sedang"
+  },
+  {
+    "image": "b1fbfc98-mkn_img_0050.jpg",
+    "roof_condition": "major_damage",
+    "wall_condition": "minor_damage",
+    "floor_condition": "wood",
+    "severity_score": 3,
+    "severity_label": "perlu_perbaikan_sedang"
+  },
+  {
+    "image": "d3124c0b-mkn_img_0051.jpg",
+    "roof_condition": "good",
+    "wall_condition": "minor_damage",
+    "floor_condition": "unknown",
+    "severity_score": 2,
+    "severity_label": "perlu_perbaikan_ringan"
+  },
+  {
+    "image": "c63ed904-mkn_img_0052.jpg",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "ceramic",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "e91a70f4-mkn_img_0053.jpg",
+    "roof_condition": "good",
+    "wall_condition": "minor_damage",
+    "floor_condition": "cement",
+    "severity_score": 2,
+    "severity_label": "perlu_perbaikan_ringan"
+  },
+  {
+    "image": "a394edf7-mkn_img_0054.jpg",
+    "roof_condition": "major_damage",
+    "wall_condition": "major_damage",
+    "floor_condition": "wood",
+    "severity_score": 3,
+    "severity_label": "perlu_perbaikan_sedang"
+  },
+  {
+    "image": "c25ee136-mkn_img_0055.jpg",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "wood",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "ec92541b-mkn_img_0056.jpg",
+    "roof_condition": "collapsed",
+    "wall_condition": "major_damage",
+    "floor_condition": "wood",
+    "severity_score": 4,
+    "severity_label": "tidak_layak"
+  },
+  {
+    "image": "6ec9ae41-mkn_img_0057.jpg",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "unknown",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "d0b79d3e-mkn_img_0058.jpg",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "unknown",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "fbfd5e88-mkn_img_0060.jpg",
+    "roof_condition": "minor_damage",
+    "wall_condition": "major_damage",
+    "floor_condition": "cement",
+    "severity_score": 3,
+    "severity_label": "perlu_perbaikan_sedang"
+  },
+  {
+    "image": "316c88ce-mkn_img_0061.jpg",
+    "roof_condition": "minor_damage",
+    "wall_condition": "minor_damage",
+    "floor_condition": "dirt",
+    "severity_score": 3,
+    "severity_label": "perlu_perbaikan_sedang"
+  },
+  {
+    "image": "0f53a67b-mkn_img_0062.jpg",
+    "roof_condition": "collapsed",
+    "wall_condition": "major_damage",
+    "floor_condition": "unknown",
+    "severity_score": 4,
+    "severity_label": "tidak_layak"
+  },
+  {
+    "image": "fd9bbd50-mkn_img_0063.jpg",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "unknown",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "3c574684-mkn_img_0064.jpg",
+    "roof_condition": "minor_damage",
+    "wall_condition": "minor_damage",
+    "floor_condition": "unknown",
+    "severity_score": 2,
+    "severity_label": "perlu_perbaikan_ringan"
+  },
+  {
+    "image": "8f2c631d-mkn_img_0065.jpg",
+    "roof_condition": "major_damage",
+    "wall_condition": "major_damage",
+    "floor_condition": "unknown",
+    "severity_score": 3,
+    "severity_label": "perlu_perbaikan_sedang"
+  },
+  {
+    "image": "1be575f4-mkn_img_0066.jpg",
+    "roof_condition": "good",
+    "wall_condition": "minor_damage",
+    "floor_condition": "dirt",
+    "severity_score": 2,
+    "severity_label": "perlu_perbaikan_ringan"
+  },
+  {
+    "image": "3780cf0f-mkn_img_0067.jpg",
+    "roof_condition": "minor_damage",
+    "wall_condition": "major_damage",
+    "floor_condition": "dirt",
+    "severity_score": 3,
+    "severity_label": "perlu_perbaikan_sedang"
+  },
+  {
+    "image": "0bf68482-mkn_img_0105.jpg",
+    "roof_condition": "minor_damage",
+    "wall_condition": "minor_damage",
+    "floor_condition": "wood",
+    "severity_score": 2,
+    "severity_label": "perlu_perbaikan_ringan"
+  },
+  {
+    "image": "68ccfb52-mkn_img_0106.jpg",
+    "roof_condition": "major_damage",
+    "wall_condition": "major_damage",
+    "floor_condition": "dirt",
+    "severity_score": 3,
+    "severity_label": "perlu_perbaikan_sedang"
+  },
+  {
+    "image": "d62c5c6e-mkn_img_0107.jpg",
+    "roof_condition": "major_damage",
+    "wall_condition": "major_damage",
+    "floor_condition": "dirt",
+    "severity_score": 3,
+    "severity_label": "perlu_perbaikan_sedang"
+  },
+  {
+    "image": "931c4c7f-mkn_img_0108.jpg",
+    "roof_condition": "minor_damage",
+    "wall_condition": "major_damage",
+    "floor_condition": "dirt",
+    "severity_score": 3,
+    "severity_label": "perlu_perbaikan_sedang"
+  },
+  {
+    "image": "7baa2ce7-mkn_img_0109.jpg",
+    "roof_condition": "good",
+    "wall_condition": "minor_damage",
+    "floor_condition": "ceramic",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "04fec9d0-mkn_img_0110.jpg",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "unknown",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "2ee06f20-mkn_img_0001.png",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "ceramic",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "04866d44-mkn_img_0006.png",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "wood",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "527b56be-mkn_img_0007.png",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "cement",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "90e40e0f-mkn_img_0008.png",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "ceramic",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "f3fb33fb-mkn_img_0011.png",
+    "roof_condition": "good",
+    "wall_condition": "minor_damage",
+    "floor_condition": "cement",
+    "severity_score": 2,
+    "severity_label": "perlu_perbaikan_ringan"
+  },
+  {
+    "image": "8f419e1c-mkn_img_0073.jpg",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "cement",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "cbd12888-mkn_img_0074.jpg",
+    "roof_condition": "collapsed",
+    "wall_condition": "major_damage",
+    "floor_condition": "wood",
+    "severity_score": 4,
+    "severity_label": "tidak_layak"
+  },
+  {
+    "image": "eaef2f5e-mkn_img_0075.jpg",
+    "roof_condition": "good",
+    "wall_condition": "major_damage",
+    "floor_condition": "cement",
+    "severity_score": 3,
+    "severity_label": "perlu_perbaikan_sedang"
+  },
+  {
+    "image": "30b70b2b-mkn_img_0076.jpg",
+    "roof_condition": "minor_damage",
+    "wall_condition": "minor_damage",
+    "floor_condition": "cement",
+    "severity_score": 2,
+    "severity_label": "perlu_perbaikan_ringan"
+  },
+  {
+    "image": "80b62c28-mkn_img_0077.jpg",
+    "roof_condition": "minor_damage",
+    "wall_condition": "minor_damage",
+    "floor_condition": "dirt",
+    "severity_score": 2,
+    "severity_label": "perlu_perbaikan_ringan"
+  },
+  {
+    "image": "b4982511-mkn_img_0078.jpg",
+    "roof_condition": "major_damage",
+    "wall_condition": "minor_damage",
+    "floor_condition": "wood",
+    "severity_score": 3,
+    "severity_label": "perlu_perbaikan_sedang"
+  },
+  {
+    "image": "22fb20d2-mkn_img_0079.jpg",
+    "roof_condition": "major_damage",
+    "wall_condition": "major_damage",
+    "floor_condition": "unknown",
+    "severity_score": 4,
+    "severity_label": "tidak_layak"
+  },
+  {
+    "image": "3192e5e8-mkn_img_0080.jpg",
+    "roof_condition": "collapsed",
+    "wall_condition": "major_damage",
+    "floor_condition": "unknown",
+    "severity_score": 4,
+    "severity_label": "tidak_layak"
+  },
+  {
+    "image": "d5775683-mkn_img_0081.jpg",
+    "roof_condition": "major_damage",
+    "wall_condition": "major_damage",
+    "floor_condition": "unknown",
+    "severity_score": 4,
+    "severity_label": "tidak_layak"
+  },
+  {
+    "image": "5d4d72c0-mkn_img_0082.jpg",
+    "roof_condition": "collapsed",
+    "wall_condition": "collapsed",
+    "floor_condition": "unknown",
+    "severity_score": 4,
+    "severity_label": "tidak_layak"
+  },
+  {
+    "image": "dd105a6f-mkn_img_0083.jpg",
+    "roof_condition": "collapsed",
+    "wall_condition": "major_damage",
+    "floor_condition": "wood",
+    "severity_score": 4,
+    "severity_label": "tidak_layak"
+  },
+  {
+    "image": "cd1f77e8-mkn_img_0085.jpg",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "ceramic",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "f6748936-mkn_img_0086.jpg",
+    "roof_condition": "good",
+    "wall_condition": "major_damage",
+    "floor_condition": "dirt",
+    "severity_score": 3,
+    "severity_label": "perlu_perbaikan_sedang"
+  },
+  {
+    "image": "5ee1d48d-mkn_img_0087.jpg",
+    "roof_condition": "good",
+    "wall_condition": "minor_damage",
+    "floor_condition": "dirt",
+    "severity_score": 2,
+    "severity_label": "perlu_perbaikan_ringan"
+  },
+  {
+    "image": "6d650315-mkn_img_0089.jpg",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "ceramic",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "8492ee04-mkn_img_0090.jpg",
+    "roof_condition": "major_damage",
+    "wall_condition": "major_damage",
+    "floor_condition": "unknown",
+    "severity_score": 3,
+    "severity_label": "perlu_perbaikan_sedang"
+  },
+  {
+    "image": "0b07ac20-mkn_img_0091.jpg",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "ceramic",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "9d462f4a-mkn_img_0092.jpg",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "unknown",
+    "severity_score": null,
+    "severity_label": null
+  },
+  {
+    "image": "fc133f08-mkn_img_0093.jpg",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "unknown",
+    "severity_score": null,
+    "severity_label": null
+  },
+  {
+    "image": "319be6a6-mkn_img_0094.jpg",
+    "roof_condition": "major_damage",
+    "wall_condition": "major_damage",
+    "floor_condition": "dirt",
+    "severity_score": null,
+    "severity_label": null
+  },
+  {
+    "image": "70545730-mkn_img_0095.jpg",
+    "roof_condition": "good",
+    "wall_condition": "minor_damage",
+    "floor_condition": "wood",
+    "severity_score": null,
+    "severity_label": null
+  },
+  {
+    "image": "d12745cf-mkn_img_0096.jpg",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "ceramic",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "4fac7d03-mkn_img_0097.jpg",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "unknown",
+    "severity_score": null,
+    "severity_label": null
+  },
+  {
+    "image": "cbfdd274-mkn_img_0098.jpg",
+    "roof_condition": "minor_damage",
+    "wall_condition": "minor_damage",
+    "floor_condition": "unknown",
+    "severity_score": 2,
+    "severity_label": "perlu_perbaikan_ringan"
+  },
+  {
+    "image": "fa9ab663-mkn_img_0099.jpg",
+    "roof_condition": "minor_damage",
+    "wall_condition": "good",
+    "floor_condition": "cement",
+    "severity_score": 2,
+    "severity_label": "perlu_perbaikan_ringan"
+  },
+  {
+    "image": "e9fb39d7-mkn_img_0100.jpg",
+    "roof_condition": "good",
+    "wall_condition": "good",
+    "floor_condition": "ceramic",
+    "severity_score": 1,
+    "severity_label": "layak"
+  },
+  {
+    "image": "404da27e-mkn_img_0101.jpg",
+    "roof_condition": "collapsed",
+    "wall_condition": "major_damage",
+    "floor_condition": "ceramic",
+    "severity_score": 4,
+    "severity_label": "tidak_layak"
+  },
+  {
+    "image": "ec8b0a01-mkn_img_0102.jpg",
+    "roof_condition": "major_damage",
+    "wall_condition": "minor_damage",
+    "floor_condition": "unknown",
+    "severity_score": 3,
+    "severity_label": "perlu_perbaikan_sedang"
+  },
+  {
+    "image": "f466224d-mkn_img_0103.jpg",
+    "roof_condition": "minor_damage",
+    "wall_condition": "good",
+    "floor_condition": "wood",
+    "severity_score": 2,
+    "severity_label": "perlu_perbaikan_ringan"
+  },
+  {
+    "image": "470e3a2c-mkn_img_0104.jpg",
+    "roof_condition": "minor_damage",
+    "wall_condition": "minor_damage",
+    "floor_condition": "ceramic",
+    "severity_score": 2,
+    "severity_label": "perlu_perbaikan_ringan"
+  }
+]
