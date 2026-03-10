@@ -1,10 +1,9 @@
 import os
 import json
 
-INPUT_FILE = r"C:\Users\Lutfi\Documents\Project\AITF\rutilahu-vlm\data\annotations_raw\mkn_annotations_raw.json"
-
-OUT_DIR = r"C:\Users\Lutfi\Documents\Project\AITF\rutilahu-vlm\data\annotations_clean"
-OUT_FILE = os.path.join(OUT_DIR, "mkn_annotations_clean.json")
+INPUT_FILE = "../data/annotations_raw/mkn_annotations_raw.json"
+OUT_DIR = "../data/annotations_clean"
+OUT_FILE = "../data/annotations_clean/mkn_annotations_clean.json"
 
 os.makedirs(OUT_DIR, exist_ok=True)
 
@@ -22,6 +21,8 @@ def clean_record(rec):
     image = rec.get("image") or rec.get("data", {}).get("image")
     if image:
         image = os.path.basename(image)
+        if "-" in image:
+            image = image.split("-", 1)[1]
 
     clean["image"] = image
 

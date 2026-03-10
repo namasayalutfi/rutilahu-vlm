@@ -11,9 +11,9 @@ import json
 import pathlib
 from collections import Counter
 
-# === CONFIG - sesuaikan path jika perlu ===
-INPUT_FILE = r"C:\Users\Lutfi\Documents\Project\AITF\rutilahu-vlm\data\annotations_clean\mkn_annotations_clean.json"
-OUT_DIR = r"C:\Users\Lutfi\Documents\Project\AITF\rutilahu-vlm\data\sft_dataset"
+# === CONFIG ===
+INPUT_FILE = "../data/annotations_clean/mkn_annotations_clean.json"
+OUT_DIR = "../data/sft_dataset"
 OUT_FILE = os.path.join(OUT_DIR, "train_vlm.jsonl")
 
 os.makedirs(OUT_DIR, exist_ok=True)
