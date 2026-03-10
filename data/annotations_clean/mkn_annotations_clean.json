@@ -4,6 +4,7 @@
     "roof_condition": "minor_damage",
     "wall_condition": "minor_damage",
     "floor_condition": "wood",
+    "wall_material": "wood",
     "severity_score": 3,
     "severity_label": "perlu_perbaikan_sedang"
   },
@@ -12,6 +13,7 @@
     "roof_condition": "major_damage",
     "wall_condition": "major_damage",
     "floor_condition": "dirt",
+    "wall_material": "bamboo",
     "severity_score": 3,
     "severity_label": "perlu_perbaikan_sedang"
   },
@@ -20,6 +22,7 @@
     "roof_condition": "major_damage",
     "wall_condition": "collapsed",
     "floor_condition": "unknown",
+    "wall_material": "bamboo",
     "severity_score": 4,
     "severity_label": "tidak_layak"
   },
@@ -28,6 +31,7 @@
     "roof_condition": "major_damage",
     "wall_condition": "major_damage",
     "floor_condition": "unknown",
+    "wall_material": "bamboo",
     "severity_score": 4,
     "severity_label": "tidak_layak"
   },
@@ -36,6 +40,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "ceramic",
+    "wall_material": "concrete",
     "severity_score": 4,
     "severity_label": "tidak_layak"
   },
@@ -44,6 +49,7 @@
     "roof_condition": "minor_damage",
     "wall_condition": "good",
     "floor_condition": "ceramic",
+    "wall_material": "concrete",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -52,6 +58,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "ceramic",
+    "wall_material": "concrete",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -60,6 +67,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "ceramic",
+    "wall_material": "concrete",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -68,6 +76,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "ceramic",
+    "wall_material": "concrete",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -76,6 +85,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "ceramic",
+    "wall_material": "concrete",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -84,6 +94,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "ceramic",
+    "wall_material": "concrete",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -92,6 +103,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "ceramic",
+    "wall_material": "concrete",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -100,6 +112,7 @@
     "roof_condition": "minor_damage",
     "wall_condition": "minor_damage",
     "floor_condition": "ceramic",
+    "wall_material": "concrete",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -108,6 +121,7 @@
     "roof_condition": "collapsed",
     "wall_condition": "major_damage",
     "floor_condition": "dirt",
+    "wall_material": "brick",
     "severity_score": 4,
     "severity_label": "tidak_layak"
   },
@@ -116,6 +130,7 @@
     "roof_condition": "major_damage",
     "wall_condition": "collapsed",
     "floor_condition": "dirt",
+    "wall_material": "bamboo",
     "severity_score": 4,
     "severity_label": "tidak_layak"
   },
@@ -124,6 +139,7 @@
     "roof_condition": "collapsed",
     "wall_condition": "major_damage",
     "floor_condition": "unknown",
+    "wall_material": "bamboo",
     "severity_score": 4,
     "severity_label": "tidak_layak"
   },
@@ -132,6 +148,7 @@
     "roof_condition": "major_damage",
     "wall_condition": "major_damage",
     "floor_condition": "dirt",
+    "wall_material": "wood",
     "severity_score": 3,
     "severity_label": "perlu_perbaikan_sedang"
   },
@@ -140,6 +157,7 @@
     "roof_condition": "minor_damage",
     "wall_condition": "minor_damage",
     "floor_condition": "dirt",
+    "wall_material": "wood",
     "severity_score": 2,
     "severity_label": "perlu_perbaikan_ringan"
   },
@@ -148,6 +166,7 @@
     "roof_condition": "collapsed",
     "wall_condition": "minor_damage",
     "floor_condition": "unknown",
+    "wall_material": "wood",
     "severity_score": 4,
     "severity_label": "tidak_layak"
   },
@@ -156,6 +175,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "unknown",
+    "wall_material": "bamboo",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -164,6 +184,7 @@
     "roof_condition": "major_damage",
     "wall_condition": "major_damage",
     "floor_condition": "dirt",
+    "wall_material": "wood",
     "severity_score": 3,
     "severity_label": "perlu_perbaikan_sedang"
   },
@@ -172,6 +193,7 @@
     "roof_condition": "minor_damage",
     "wall_condition": "major_damage",
     "floor_condition": "cement",
+    "wall_material": "brick",
     "severity_score": 3,
     "severity_label": "perlu_perbaikan_sedang"
   },
@@ -180,6 +202,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "cement",
+    "wall_material": "brick",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -188,6 +211,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "cement",
+    "wall_material": "brick",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -196,6 +220,7 @@
     "roof_condition": "major_damage",
     "wall_condition": "minor_damage",
     "floor_condition": "dirt",
+    "wall_material": "wood",
     "severity_score": 3,
     "severity_label": "perlu_perbaikan_sedang"
   },
@@ -204,6 +229,7 @@
     "roof_condition": "collapsed",
     "wall_condition": "major_damage",
     "floor_condition": "dirt",
+    "wall_material": "bamboo",
     "severity_score": 4,
     "severity_label": "tidak_layak"
   },
@@ -212,6 +238,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "unknown",
+    "wall_material": "brick",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -220,6 +247,7 @@
     "roof_condition": "major_damage",
     "wall_condition": "major_damage",
     "floor_condition": "unknown",
+    "wall_material": "bamboo",
     "severity_score": 4,
     "severity_label": "tidak_layak"
   },
@@ -228,6 +256,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "wood",
+    "wall_material": "wood",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -236,6 +265,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "unknown",
+    "wall_material": "brick",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -244,6 +274,7 @@
     "roof_condition": "minor_damage",
     "wall_condition": "good",
     "floor_condition": "cement",
+    "wall_material": "wood",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -252,6 +283,7 @@
     "roof_condition": "major_damage",
     "wall_condition": "major_damage",
     "floor_condition": "dirt",
+    "wall_material": "bamboo",
     "severity_score": 4,
     "severity_label": "tidak_layak"
   },
@@ -260,6 +292,7 @@
     "roof_condition": "collapsed",
     "wall_condition": "major_damage",
     "floor_condition": "unknown",
+    "wall_material": "brick",
     "severity_score": 4,
     "severity_label": "tidak_layak"
   },
@@ -268,6 +301,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "cement",
+    "wall_material": "brick",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -276,6 +310,7 @@
     "roof_condition": "collapsed",
     "wall_condition": "collapsed",
     "floor_condition": "unknown",
+    "wall_material": "brick",
     "severity_score": 4,
     "severity_label": "tidak_layak"
   },
@@ -284,6 +319,7 @@
     "roof_condition": "minor_damage",
     "wall_condition": "major_damage",
     "floor_condition": "wood",
+    "wall_material": "wood",
     "severity_score": 3,
     "severity_label": "perlu_perbaikan_sedang"
   },
@@ -292,6 +328,7 @@
     "roof_condition": "minor_damage",
     "wall_condition": "major_damage",
     "floor_condition": "wood",
+    "wall_material": "bamboo",
     "severity_score": 3,
     "severity_label": "perlu_perbaikan_sedang"
   },
@@ -300,6 +337,7 @@
     "roof_condition": "good",
     "wall_condition": "minor_damage",
     "floor_condition": "unknown",
+    "wall_material": "mixed",
     "severity_score": 2,
     "severity_label": "perlu_perbaikan_ringan"
   },
@@ -308,6 +346,7 @@
     "roof_condition": "minor_damage",
     "wall_condition": "major_damage",
     "floor_condition": "unknown",
+    "wall_material": "wood",
     "severity_score": 3,
     "severity_label": "perlu_perbaikan_sedang"
   },
@@ -316,6 +355,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "unknown",
+    "wall_material": "brick",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -324,6 +364,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "unknown",
+    "wall_material": "brick",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -332,6 +373,7 @@
     "roof_condition": "minor_damage",
     "wall_condition": "major_damage",
     "floor_condition": "cement",
+    "wall_material": "bamboo",
     "severity_score": 3,
     "severity_label": "perlu_perbaikan_sedang"
   },
@@ -340,6 +382,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "cement",
+    "wall_material": "brick",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -348,6 +391,7 @@
     "roof_condition": "minor_damage",
     "wall_condition": "major_damage",
     "floor_condition": "dirt",
+    "wall_material": "bamboo",
     "severity_score": 3,
     "severity_label": "perlu_perbaikan_sedang"
   },
@@ -356,6 +400,7 @@
     "roof_condition": "major_damage",
     "wall_condition": "minor_damage",
     "floor_condition": "cement",
+    "wall_material": "wood",
     "severity_score": 3,
     "severity_label": "perlu_perbaikan_sedang"
   },
@@ -364,6 +409,7 @@
     "roof_condition": "major_damage",
     "wall_condition": "minor_damage",
     "floor_condition": "wood",
+    "wall_material": "bamboo",
     "severity_score": 3,
     "severity_label": "perlu_perbaikan_sedang"
   },
@@ -372,6 +418,7 @@
     "roof_condition": "good",
     "wall_condition": "minor_damage",
     "floor_condition": "unknown",
+    "wall_material": "bamboo",
     "severity_score": 2,
     "severity_label": "perlu_perbaikan_ringan"
   },
@@ -380,6 +427,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "ceramic",
+    "wall_material": "brick",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -388,6 +436,7 @@
     "roof_condition": "good",
     "wall_condition": "minor_damage",
     "floor_condition": "cement",
+    "wall_material": "mixed",
     "severity_score": 2,
     "severity_label": "perlu_perbaikan_ringan"
   },
@@ -396,6 +445,7 @@
     "roof_condition": "major_damage",
     "wall_condition": "major_damage",
     "floor_condition": "wood",
+    "wall_material": "wood",
     "severity_score": 3,
     "severity_label": "perlu_perbaikan_sedang"
   },
@@ -404,6 +454,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "wood",
+    "wall_material": "bamboo",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -412,6 +463,7 @@
     "roof_condition": "collapsed",
     "wall_condition": "major_damage",
     "floor_condition": "wood",
+    "wall_material": "bamboo",
     "severity_score": 4,
     "severity_label": "tidak_layak"
   },
@@ -420,6 +472,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "unknown",
+    "wall_material": "brick",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -428,6 +481,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "unknown",
+    "wall_material": "brick",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -436,6 +490,7 @@
     "roof_condition": "minor_damage",
     "wall_condition": "major_damage",
     "floor_condition": "cement",
+    "wall_material": "wood",
     "severity_score": 3,
     "severity_label": "perlu_perbaikan_sedang"
   },
@@ -444,6 +499,7 @@
     "roof_condition": "minor_damage",
     "wall_condition": "minor_damage",
     "floor_condition": "dirt",
+    "wall_material": "mixed",
     "severity_score": 3,
     "severity_label": "perlu_perbaikan_sedang"
   },
@@ -452,6 +508,7 @@
     "roof_condition": "collapsed",
     "wall_condition": "major_damage",
     "floor_condition": "unknown",
+    "wall_material": "concrete",
     "severity_score": 4,
     "severity_label": "tidak_layak"
   },
@@ -460,6 +517,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "unknown",
+    "wall_material": "brick",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -468,6 +526,7 @@
     "roof_condition": "minor_damage",
     "wall_condition": "minor_damage",
     "floor_condition": "unknown",
+    "wall_material": "mixed",
     "severity_score": 2,
     "severity_label": "perlu_perbaikan_ringan"
   },
@@ -476,6 +535,7 @@
     "roof_condition": "major_damage",
     "wall_condition": "major_damage",
     "floor_condition": "unknown",
+    "wall_material": "mixed",
     "severity_score": 3,
     "severity_label": "perlu_perbaikan_sedang"
   },
@@ -484,6 +544,7 @@
     "roof_condition": "good",
     "wall_condition": "minor_damage",
     "floor_condition": "dirt",
+    "wall_material": "bamboo",
     "severity_score": 2,
     "severity_label": "perlu_perbaikan_ringan"
   },
@@ -492,6 +553,7 @@
     "roof_condition": "minor_damage",
     "wall_condition": "major_damage",
     "floor_condition": "dirt",
+    "wall_material": "mixed",
     "severity_score": 3,
     "severity_label": "perlu_perbaikan_sedang"
   },
@@ -500,6 +562,7 @@
     "roof_condition": "minor_damage",
     "wall_condition": "minor_damage",
     "floor_condition": "wood",
+    "wall_material": "wood",
     "severity_score": 2,
     "severity_label": "perlu_perbaikan_ringan"
   },
@@ -508,6 +571,7 @@
     "roof_condition": "major_damage",
     "wall_condition": "major_damage",
     "floor_condition": "dirt",
+    "wall_material": "wood",
     "severity_score": 3,
     "severity_label": "perlu_perbaikan_sedang"
   },
@@ -516,6 +580,7 @@
     "roof_condition": "major_damage",
     "wall_condition": "major_damage",
     "floor_condition": "dirt",
+    "wall_material": "bamboo",
     "severity_score": 3,
     "severity_label": "perlu_perbaikan_sedang"
   },
@@ -524,6 +589,7 @@
     "roof_condition": "minor_damage",
     "wall_condition": "major_damage",
     "floor_condition": "dirt",
+    "wall_material": "bamboo",
     "severity_score": 3,
     "severity_label": "perlu_perbaikan_sedang"
   },
@@ -532,6 +598,7 @@
     "roof_condition": "good",
     "wall_condition": "minor_damage",
     "floor_condition": "ceramic",
+    "wall_material": "wood",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -540,6 +607,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "unknown",
+    "wall_material": "wood",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -548,6 +616,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "ceramic",
+    "wall_material": "brick",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -556,6 +625,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "wood",
+    "wall_material": "brick",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -564,6 +634,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "cement",
+    "wall_material": "brick",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -572,6 +643,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "ceramic",
+    "wall_material": "brick",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -580,6 +652,7 @@
     "roof_condition": "good",
     "wall_condition": "minor_damage",
     "floor_condition": "cement",
+    "wall_material": "brick",
     "severity_score": 2,
     "severity_label": "perlu_perbaikan_ringan"
   },
@@ -588,6 +661,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "cement",
+    "wall_material": "brick",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -596,6 +670,7 @@
     "roof_condition": "collapsed",
     "wall_condition": "major_damage",
     "floor_condition": "wood",
+    "wall_material": "wood",
     "severity_score": 4,
     "severity_label": "tidak_layak"
   },
@@ -604,6 +679,7 @@
     "roof_condition": "good",
     "wall_condition": "major_damage",
     "floor_condition": "cement",
+    "wall_material": "bamboo",
     "severity_score": 3,
     "severity_label": "perlu_perbaikan_sedang"
   },
@@ -612,6 +688,7 @@
     "roof_condition": "minor_damage",
     "wall_condition": "minor_damage",
     "floor_condition": "cement",
+    "wall_material": "wood",
     "severity_score": 2,
     "severity_label": "perlu_perbaikan_ringan"
   },
@@ -620,6 +697,7 @@
     "roof_condition": "minor_damage",
     "wall_condition": "minor_damage",
     "floor_condition": "dirt",
+    "wall_material": "bamboo",
     "severity_score": 2,
     "severity_label": "perlu_perbaikan_ringan"
   },
@@ -628,6 +706,7 @@
     "roof_condition": "major_damage",
     "wall_condition": "minor_damage",
     "floor_condition": "wood",
+    "wall_material": "mixed",
     "severity_score": 3,
     "severity_label": "perlu_perbaikan_sedang"
   },
@@ -636,6 +715,7 @@
     "roof_condition": "major_damage",
     "wall_condition": "major_damage",
     "floor_condition": "unknown",
+    "wall_material": "concrete",
     "severity_score": 4,
     "severity_label": "tidak_layak"
   },
@@ -644,6 +724,7 @@
     "roof_condition": "collapsed",
     "wall_condition": "major_damage",
     "floor_condition": "unknown",
+    "wall_material": "bamboo",
     "severity_score": 4,
     "severity_label": "tidak_layak"
   },
@@ -652,6 +733,7 @@
     "roof_condition": "major_damage",
     "wall_condition": "major_damage",
     "floor_condition": "unknown",
+    "wall_material": "concrete",
     "severity_score": 4,
     "severity_label": "tidak_layak"
   },
@@ -660,6 +742,7 @@
     "roof_condition": "collapsed",
     "wall_condition": "collapsed",
     "floor_condition": "unknown",
+    "wall_material": "concrete",
     "severity_score": 4,
     "severity_label": "tidak_layak"
   },
@@ -668,6 +751,7 @@
     "roof_condition": "collapsed",
     "wall_condition": "major_damage",
     "floor_condition": "wood",
+    "wall_material": "wood",
     "severity_score": 4,
     "severity_label": "tidak_layak"
   },
@@ -676,6 +760,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "ceramic",
+    "wall_material": "brick",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -684,6 +769,7 @@
     "roof_condition": "good",
     "wall_condition": "major_damage",
     "floor_condition": "dirt",
+    "wall_material": "mixed",
     "severity_score": 3,
     "severity_label": "perlu_perbaikan_sedang"
   },
@@ -692,6 +778,7 @@
     "roof_condition": "good",
     "wall_condition": "minor_damage",
     "floor_condition": "dirt",
+    "wall_material": "wood",
     "severity_score": 2,
     "severity_label": "perlu_perbaikan_ringan"
   },
@@ -700,6 +787,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "ceramic",
+    "wall_material": "brick",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -708,6 +796,7 @@
     "roof_condition": "major_damage",
     "wall_condition": "major_damage",
     "floor_condition": "unknown",
+    "wall_material": "mixed",
     "severity_score": 3,
     "severity_label": "perlu_perbaikan_sedang"
   },
@@ -716,6 +805,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "ceramic",
+    "wall_material": "wood",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -724,6 +814,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "unknown",
+    "wall_material": "brick",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -732,6 +823,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "unknown",
+    "wall_material": "concrete",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -740,6 +832,7 @@
     "roof_condition": "collapsed",
     "wall_condition": "collapsed",
     "floor_condition": "dirt",
+    "wall_material": "wood",
     "severity_score": 4,
     "severity_label": "tidak_layak"
   },
@@ -748,6 +841,7 @@
     "roof_condition": "good",
     "wall_condition": "minor_damage",
     "floor_condition": "wood",
+    "wall_material": "wood",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -756,6 +850,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "ceramic",
+    "wall_material": "brick",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -764,6 +859,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "unknown",
+    "wall_material": "wood",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -772,6 +868,7 @@
     "roof_condition": "minor_damage",
     "wall_condition": "minor_damage",
     "floor_condition": "unknown",
+    "wall_material": "mixed",
     "severity_score": 2,
     "severity_label": "perlu_perbaikan_ringan"
   },
@@ -780,6 +877,7 @@
     "roof_condition": "minor_damage",
     "wall_condition": "good",
     "floor_condition": "cement",
+    "wall_material": "brick",
     "severity_score": 2,
     "severity_label": "perlu_perbaikan_ringan"
   },
@@ -788,6 +886,7 @@
     "roof_condition": "good",
     "wall_condition": "good",
     "floor_condition": "ceramic",
+    "wall_material": "concrete",
     "severity_score": 1,
     "severity_label": "layak"
   },
@@ -796,6 +895,7 @@
     "roof_condition": "collapsed",
     "wall_condition": "major_damage",
     "floor_condition": "ceramic",
+    "wall_material": "concrete",
     "severity_score": 4,
     "severity_label": "tidak_layak"
   },
@@ -804,6 +904,7 @@
     "roof_condition": "major_damage",
     "wall_condition": "minor_damage",
     "floor_condition": "unknown",
+    "wall_material": "bamboo",
     "severity_score": 3,
     "severity_label": "perlu_perbaikan_sedang"
   },
@@ -812,6 +913,7 @@
     "roof_condition": "minor_damage",
     "wall_condition": "good",
     "floor_condition": "wood",
+    "wall_material": "brick",
     "severity_score": 2,
     "severity_label": "perlu_perbaikan_ringan"
   },
@@ -820,6 +922,7 @@
     "roof_condition": "minor_damage",
     "wall_condition": "minor_damage",
     "floor_condition": "ceramic",
+    "wall_material": "wood",
     "severity_score": 2,
     "severity_label": "perlu_perbaikan_ringan"
   }
