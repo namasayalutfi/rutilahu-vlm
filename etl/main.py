@@ -9,8 +9,8 @@ from clean_annotations import AnnotationCleaner
 from generate_sft_dataset import SFTGenerator
 
 DEFAULTS = {
-    "input_urls":"data/gambar_rutilahu.txt",
-    "raw_dir":"data/raw_img",
+    "input_urls":"data/crawler_url_image.txt",
+    "raw_dir":"data/raw_img2",
     "resized_dir":"data/resized_img",
     "annotations_raw":"data/annotations_raw/mkn_annotations_raw.json",
     "annotations_clean_dir":"data/annotations_clean",
