@@ -1,0 +1,392 @@
+[
+  {
+    "house_id": "H00004",
+    "kelayakan_rumah": "layak",
+    "split": "train",
+    "dataset_scheme": "multi",
+    "pair_key": {
+      "kelayakan_rumah": "layak",
+      "stem": "4"
+    },
+    "images": [
+      {
+        "image_hash": "ee8e74b23fb0ccce21e4e3e876c54aa9a536005a9c97412c1f6800b42dc739d1",
+        "image_path": "rlh_ext\\mkn_single_rlh_ext_0001.jpg",
+        "folder_name": "rlh_ext",
+        "view_type": "exterior",
+        "material_atap": null,
+        "kondisi_atap": null,
+        "material_dinding": null,
+        "kondisi_dinding": null,
+        "material_lantai": null,
+        "kondisi_lantai": null
+      },
+      {
+        "image_hash": "e4cfbb56eb7a562c4df4f7ab81a0f8fa3d4e7d1931344f176e5a89531ce366cf",
+        "image_path": "rlh_int\\mkn_single_rlh_int_0012.jpg",
+        "folder_name": "rlh_int",
+        "view_type": "interior",
+        "material_atap": null,
+        "kondisi_atap": null,
+        "material_dinding": null,
+        "kondisi_dinding": null,
+        "material_lantai": null,
+        "kondisi_lantai": null
+      }
+    ]
+  },
+  {
+    "house_id": "H00437",
+    "kelayakan_rumah": "layak",
+    "split": "train",
+    "dataset_scheme": "single",
+    "source_group_id": "d4073fdb6d231bdbd1f2bc0c8ab68e954d6f51c780f95450471c64fbb33d5a1f",
+    "images": [
+      {
+        "image_hash": "d4073fdb6d231bdbd1f2bc0c8ab68e954d6f51c780f95450471c64fbb33d5a1f",
+        "image_path": "rlh_ext\\mkn_single_rlh_ext_0357.jpg",
+        "folder_name": "rlh_ext",
+        "view_type": "exterior",
+        "material_atap": null,
+        "kondisi_atap": null,
+        "material_dinding": null,
+        "kondisi_dinding": null,
+        "material_lantai": null,
+        "kondisi_lantai": null
+      }
+    ]
+  },
+  {
+    "house_id": "H00283",
+    "kelayakan_rumah": "layak",
+    "split": "train",
+    "dataset_scheme": "single",
+    "source_group_id": "87323f9fde15d5fdec6dfc9a9b6c4de2a0aa67afeb3cf7b85f36352be0f0ec73",
+    "images": [
+      {
+        "image_hash": "87323f9fde15d5fdec6dfc9a9b6c4de2a0aa67afeb3cf7b85f36352be0f0ec73",
+        "image_path": "rlh_ext\\mkn_single_rlh_ext_0203.jpg",
+        "folder_name": "rlh_ext",
+        "view_type": "exterior",
+        "material_atap": null,
+        "kondisi_atap": null,
+        "material_dinding": null,
+        "kondisi_dinding": null,
+        "material_lantai": null,
+        "kondisi_lantai": null
+      }
+    ]
+  },
+  {
+    "house_id": "H00149",
+    "kelayakan_rumah": "layak",
+    "split": "val",
+    "dataset_scheme": "single",
+    "source_group_id": "61a27faeb576f9c597254abf373461e7a339a0567cc64f9dc62fc6d211e95d93",
+    "images": [
+      {
+        "image_hash": "61a27faeb576f9c597254abf373461e7a339a0567cc64f9dc62fc6d211e95d93",
+        "image_path": "rlh_ext\\mkn_single_rlh_ext_0069.jpg",
+        "folder_name": "rlh_ext",
+        "view_type": "exterior",
+        "material_atap": null,
+        "kondisi_atap": null,
+        "material_dinding": null,
+        "kondisi_dinding": null,
+        "material_lantai": null,
+        "kondisi_lantai": null
+      }
+    ]
+  },
+  {
+    "house_id": "H00692",
+    "kelayakan_rumah": "layak",
+    "split": "val",
+    "dataset_scheme": "single",
+    "source_group_id": "90445293ca11cd08a2949b250c2fa942635b8a0c6d77ce0daf8845714238920e",
+    "images": [
+      {
+        "image_hash": "90445293ca11cd08a2949b250c2fa942635b8a0c6d77ce0daf8845714238920e",
+        "image_path": "rlh_int\\mkn_single_rlh_int_0200.jpg",
+        "folder_name": "rlh_int",
+        "view_type": "interior",
+        "material_atap": null,
+        "kondisi_atap": null,
+        "material_dinding": null,
+        "kondisi_dinding": null,
+        "material_lantai": null,
+        "kondisi_lantai": null
+      }
+    ]
+  },
+  {
+    "house_id": "H01185",
+    "kelayakan_rumah": "tidak_layak",
+    "split": "train",
+    "dataset_scheme": "single",
+    "source_group_id": "17f1585264a9768a961d3c25c69a792046a1662a9a90442bc39e0a5da54113bf",
+    "images": [
+      {
+        "image_hash": "17f1585264a9768a961d3c25c69a792046a1662a9a90442bc39e0a5da54113bf",
+        "image_path": "rtlh_int\\mkn_single_rtlh_int_0017.jpg",
+        "folder_name": "rtlh_int",
+        "view_type": "interior",
+        "material_atap": null,
+        "kondisi_atap": null,
+        "material_dinding": null,
+        "kondisi_dinding": null,
+        "material_lantai": null,
+        "kondisi_lantai": null
+      }
+    ]
+  },
+  {
+    "house_id": "H00030",
+    "kelayakan_rumah": "layak",
+    "split": "val",
+    "dataset_scheme": "multi",
+    "pair_key": {
+      "kelayakan_rumah": "layak",
+      "stem": "30"
+    },
+    "images": [
+      {
+        "image_hash": "a1b41865f03578e5e8c2e545b29aee5bd80e559ad324cbee44fc8da9c47921d4",
+        "image_path": "rlh_ext\\mkn_single_rlh_ext_0045.jpg",
+        "folder_name": "rlh_ext",
+        "view_type": "exterior",
+        "material_atap": null,
+        "kondisi_atap": null,
+        "material_dinding": null,
+        "kondisi_dinding": null,
+        "material_lantai": null,
+        "kondisi_lantai": null
+      },
+      {
+        "image_hash": "4465e31239b5e55246ff505c509d8fdea6f0929f7f3e6a25d01d21262cde2c0d",
+        "image_path": "rlh_int\\mkn_single_rlh_int_0144.jpg",
+        "folder_name": "rlh_int",
+        "view_type": "interior",
+        "material_atap": null,
+        "kondisi_atap": null,
+        "material_dinding": null,
+        "kondisi_dinding": null,
+        "material_lantai": null,
+        "kondisi_lantai": null
+      }
+    ]
+  },
+  {
+    "house_id": "H00688",
+    "kelayakan_rumah": "layak",
+    "split": "train",
+    "dataset_scheme": "single",
+    "source_group_id": "d5d759d03f040ecf6d219fbaac8fcca28699b7447482648eef149da8157194da",
+    "images": [
+      {
+        "image_hash": "d5d759d03f040ecf6d219fbaac8fcca28699b7447482648eef149da8157194da",
+        "image_path": "rlh_int\\mkn_single_rlh_int_0196.jpg",
+        "folder_name": "rlh_int",
+        "view_type": "interior",
+        "material_atap": null,
+        "kondisi_atap": null,
+        "material_dinding": null,
+        "kondisi_dinding": null,
+        "material_lantai": null,
+        "kondisi_lantai": null
+      }
+    ]
+  },
+  {
+    "house_id": "H00975",
+    "kelayakan_rumah": "tidak_layak",
+    "split": "val",
+    "dataset_scheme": "single",
+    "source_group_id": "24c3394746f5e7cb6546edcf49f28c12c7b0494f954abb8f1da29e1a37741aae",
+    "images": [
+      {
+        "image_hash": "24c3394746f5e7cb6546edcf49f28c12c7b0494f954abb8f1da29e1a37741aae",
+        "image_path": "rtlh_ext\\mkn_single_rtlh_ext_0233.jpg",
+        "folder_name": "rtlh_ext",
+        "view_type": "exterior",
+        "material_atap": null,
+        "kondisi_atap": null,
+        "material_dinding": null,
+        "kondisi_dinding": null,
+        "material_lantai": null,
+        "kondisi_lantai": null
+      }
+    ]
+  },
+  {
+    "house_id": "H00736",
+    "kelayakan_rumah": "layak",
+    "split": "train",
+    "dataset_scheme": "single",
+    "source_group_id": "cb9a5c513348ac1eb0ecba707313940cb4cbf188ca629c35a49593b58749d0cb",
+    "images": [
+      {
+        "image_hash": "cb9a5c513348ac1eb0ecba707313940cb4cbf188ca629c35a49593b58749d0cb",
+        "image_path": "rlh_int\\mkn_single_rlh_int_0244.jpg",
+        "folder_name": "rlh_int",
+        "view_type": "interior",
+        "material_atap": null,
+        "kondisi_atap": null,
+        "material_dinding": null,
+        "kondisi_dinding": null,
+        "material_lantai": null,
+        "kondisi_lantai": null
+      }
+    ]
+  },
+  {
+    "house_id": "H00076",
+    "kelayakan_rumah": "tidak_layak",
+    "split": "val",
+    "dataset_scheme": "multi",
+    "pair_key": {
+      "kelayakan_rumah": "tidak_layak",
+      "stem": "36"
+    },
+    "images": [
+      {
+        "image_hash": "b9a6936b204855c1eb39a8d4f277c978b38e01969df54b7e8c025a699ea9471a",
+        "image_path": "rtlh_ext\\mkn_single_rtlh_ext_0338.jpg",
+        "folder_name": "rtlh_ext",
+        "view_type": "exterior",
+        "material_atap": null,
+        "kondisi_atap": null,
+        "material_dinding": null,
+        "kondisi_dinding": null,
+        "material_lantai": null,
+        "kondisi_lantai": null
+      },
+      {
+        "image_hash": "19d1b7a13b15b5a40748e6c418c4527f20ea7cfaa55f6c06674478cfeefb19e3",
+        "image_path": "rtlh_int\\mkn_single_rtlh_int_0036.jpg",
+        "folder_name": "rtlh_int",
+        "view_type": "interior",
+        "material_atap": null,
+        "kondisi_atap": null,
+        "material_dinding": null,
+        "kondisi_dinding": null,
+        "material_lantai": null,
+        "kondisi_lantai": null
+      }
+    ]
+  },
+  {
+    "house_id": "H00013",
+    "kelayakan_rumah": "layak",
+    "split": "train",
+    "dataset_scheme": "multi",
+    "pair_key": {
+      "kelayakan_rumah": "layak",
+      "stem": "13"
+    },
+    "images": [
+      {
+        "image_hash": "3a13232364921054345014426905e412cdb5a9063bdd140bb106336d53c7628e",
+        "image_path": "rlh_ext\\mkn_single_rlh_ext_0023.jpg",
+        "folder_name": "rlh_ext",
+        "view_type": "exterior",
+        "material_atap": null,
+        "kondisi_atap": null,
+        "material_dinding": null,
+        "kondisi_dinding": null,
+        "material_lantai": null,
+        "kondisi_lantai": null
+      },
+      {
+        "image_hash": "6653b5e695b15cbd72b7051177e21eec7bedb3eee30e5ffc6dac83d38eef5a30",
+        "image_path": "rlh_int\\mkn_single_rlh_int_0219.jpg",
+        "folder_name": "rlh_int",
+        "view_type": "interior",
+        "material_atap": null,
+        "kondisi_atap": null,
+        "material_dinding": null,
+        "kondisi_dinding": null,
+        "material_lantai": null,
+        "kondisi_lantai": null
+      }
+    ]
+  },
+  {
+    "house_id": "H00516",
+    "kelayakan_rumah": "layak",
+    "split": "val",
+    "dataset_scheme": "single",
+    "source_group_id": "51f5c066e6a1eb036bb8d1432322ec0c13963c64d99292ae4db6bc8eca04004f",
+    "images": [
+      {
+        "image_hash": "51f5c066e6a1eb036bb8d1432322ec0c13963c64d99292ae4db6bc8eca04004f",
+        "image_path": "rlh_int\\mkn_single_rlh_int_0024.jpg",
+        "folder_name": "rlh_int",
+        "view_type": "interior",
+        "material_atap": null,
+        "kondisi_atap": null,
+        "material_dinding": null,
+        "kondisi_dinding": null,
+        "material_lantai": null,
+        "kondisi_lantai": null
+      }
+    ]
+  },
+  {
+    "house_id": "H00058",
+    "kelayakan_rumah": "tidak_layak",
+    "split": "train",
+    "dataset_scheme": "multi",
+    "pair_key": {
+      "kelayakan_rumah": "tidak_layak",
+      "stem": "18"
+    },
+    "images": [
+      {
+        "image_hash": "41fb51b7dec8f56c5b5d09a632daab60c924da310847391268b1f49bafc3edca",
+        "image_path": "rtlh_ext\\mkn_single_rtlh_ext_0043.jpg",
+        "folder_name": "rtlh_ext",
+        "view_type": "exterior",
+        "material_atap": null,
+        "kondisi_atap": null,
+        "material_dinding": null,
+        "kondisi_dinding": null,
+        "material_lantai": null,
+        "kondisi_lantai": null
+      },
+      {
+        "image_hash": "6b5494836c6f5558bd8e62711298828414fa9a5291372270501cf124c46c771b",
+        "image_path": "rtlh_int\\mkn_single_rtlh_int_0018.jpg",
+        "folder_name": "rtlh_int",
+        "view_type": "interior",
+        "material_atap": null,
+        "kondisi_atap": null,
+        "material_dinding": null,
+        "kondisi_dinding": null,
+        "material_lantai": null,
+        "kondisi_lantai": null
+      }
+    ]
+  },
+  {
+    "house_id": "H00407",
+    "kelayakan_rumah": "layak",
+    "split": "train",
+    "dataset_scheme": "single",
+    "source_group_id": "dca2655ee371f2f1da717ad1c62f9b7b1c764963bb30e16053d0de42111843a0",
+    "images": [
+      {
+        "image_hash": "dca2655ee371f2f1da717ad1c62f9b7b1c764963bb30e16053d0de42111843a0",
+        "image_path": "rlh_ext\\mkn_single_rlh_ext_0327.jpg",
+        "folder_name": "rlh_ext",
+        "view_type": "exterior",
+        "material_atap": null,
+        "kondisi_atap": null,
+        "material_dinding": null,
+        "kondisi_dinding": null,
+        "material_lantai": null,
+        "kondisi_lantai": null
+      }
+    ]
+  }
+]
