@@ -87,7 +87,7 @@ def rename_files(folder_path, prefix, start_index=1, padding=4, extensions=None)
 # 🔥 MAIN PIPELINE
 # =========================
 if __name__ == "__main__":
-    folder = "data/mkn_img/multi_images/rtlh_int"
+    folder = "data/mkn_img/rlh_ext"
 
     # 1. Convert ke JPG dulu
     convert_to_jpg(
@@ -99,8 +99,8 @@ if __name__ == "__main__":
     # 2. Rename hasilnya
     rename_files(
         folder_path=folder,
-        prefix="",
+        prefix="mkn_single_rlh_ext_",
         start_index=1,
-        padding=1,
+        padding=4,
         extensions=[".jpg"]
     )
